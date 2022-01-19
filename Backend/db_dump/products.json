@@ -1,0 +1,527 @@
+[{
+  "_id": {
+    "$oid": "61d73eb8b4d804f24398155a"
+  },
+  "product_name": "Black Handbag",
+  "product_image": "black_handbag_1.jpeg",
+  "product_desc": "Sophisticated, formal, luxurious, powerful: black is the colour for an elegant, confident. Despite what people often think, black is distinctive and memorable: a woman with a black bag must be taken seriously. You can pair it with other colours to make them stand out and to add a touch of confidence to any look.",
+  "product_subimages": [
+    "black_handbag_1.jpeg",
+    "black_handbag_2.jpeg",
+    "black_handbag_3.jpeg",
+    "black_handbag_4.jpeg"
+  ],
+  "product_cost": 899,
+  "product_rating": 2,
+  "color_id": {
+    "$oid": "61d701f6b4d804f24398154a"
+  },
+  "category_id": {
+    "$oid": "61d702cfb4d804f243981558"
+  },
+  "created_at": {
+    "$date": "2022-01-06T19:10:48.192Z"
+  },
+  "__v": 0,
+  "product_feature": "Product Material: Faux Leather\nProduct Color: Black\nProduct Occasion: CASUAL, PARTY\nProduct Warranty: Warranty against manufacturing defects within 10 days of purchase\nWater Resistant: This product is water resistant. Wipe with a dry/damp cloth to clean. Do not wash.\nProduct Pattern: 2 handles; 1 adjustable long belt(detachable), Closure: Snap",
+  "rated_by": 1
+},{
+  "_id": {
+    "$oid": "61d73fe0b4d804f24398155c"
+  },
+  "product_name": "Paradox Women's Matte Finish Handbag",
+  "product_image": "blue_handbag_1.jpg",
+  "product_desc": "This handbag is made from PU material and is  Blue in colour. The handbag has compartments to store your belongings in an organized way. It is a suitable choice when you want to carry your essentials in style without compromising on utility. Compartment Description The wallet features two main compartments with an inner compartment with zipper closure to store your cash and coins. The compartments have adequate space for your essentials like cosmetics, cash, coins, cell phone and other miscellaneous stuff. The handbag has an inner lining along the compartments and also comes with an inner zip compartment to store your id and other important cards.",
+  "product_subimages": [
+    "blue_handbag_1.jpg",
+    "blue_handbag_2.jpg",
+    "blue_handbag_3.jpg",
+    "blue_handbag_4.jpg"
+  ],
+  "product_cost": 2999,
+  "product_rating": 3,
+  "color_id": {
+    "$oid": "61d701cfb4d804f243981548"
+  },
+  "category_id": {
+    "$oid": "61d702cfb4d804f243981558"
+  },
+  "created_at": {
+    "$date": "2022-01-06T19:15:44.404Z"
+  },
+  "__v": 0,
+  "product_feature": "Color: Navy Blue, PU leather material , \nClosure: Zip Closure Strap \nType: Handle;\nOccasion: Casual\nParty wear ,casual ,formal ,office use, Light weight and spacious, Designer collection\nThis can also be a fantastic gift for your lovely wife or a special friend on her birthday  anniversary to make her feel special and loved✅\nDimensions-;Length:40cm, Height:30cm and Widt:10cm , 2 Compartment, 6 outer Pocket.1 inner pocket,\nDo not expose to extreme heat",
+  "rated_by": 1
+},{
+  "_id": {
+    "$oid": "61d74096b4d804f24398155e"
+  },
+  "product_name": "Mammon Women's Handbag",
+  "product_image": "red_handbag_1.jpeg",
+  "product_desc": "Style and Fashion: This product is design for modern people who wants to change with the world. This product will be add on for your personality. Applications - Perfect for the Trips, Vacation, Travel, School, Shopping or any other kind of Leisure Activities. Features- Sets of 6 piece of Bags with Zipper Closure, Adjustable Strap with Solid Finishing. Material- Pure PU Leather material.",
+  "product_subimages": [
+    "red_handbag_1.jpeg",
+    "red_handbag_2.jpeg",
+    "red_handbag_3.jpeg",
+    "red_handbag_4.jpeg"
+  ],
+  "product_cost": 4999,
+  "product_rating": 5,
+  "color_id": {
+    "$oid": "61d70211b4d804f24398154c"
+  },
+  "category_id": {
+    "$oid": "61d702cfb4d804f243981558"
+  },
+  "created_at": {
+    "$date": "2022-01-06T19:18:46.835Z"
+  },
+  "__v": 0,
+  "product_feature": "Dimensions: 21.5 cm x 18 cm x 7 cm\nproduct material:100% nylon satin\nType:Versatile bag\nProduct pattern :Inner zip pocket\nClosure Type: Zip closure\nHook-and-loop tab keeps handles together\nRemovable, adjustable shoulder strap\nColor: Legacy Red",
+  "rated_by": 1
+},{
+  "_id": {
+    "$oid": "61d7411bb4d804f243981560"
+  },
+  "product_name": "Aliza Women's Handbag",
+  "product_image": "grey_handbag_1.jpeg",
+  "product_desc": "Classic stylish and trendy by carrying this handbag. This bag is made from polyurethane (PU), This bag is spacious and perfect for keeping your everyday essentials. Suitable for all occasion. Pair this bag with casuals of your liking to look smart. Strap Type : ( Adjustable Strap ).",
+  "product_subimages": [
+    "grey_handbag_1.jpeg",
+    "grey_handbag_2.jpeg",
+    "grey_handbag_3.jpeg",
+    "grey_handbag_4.jpeg"
+  ],
+  "product_cost": 2999,
+  "product_rating": 4,
+  "color_id": {
+    "$oid": "61d70221b4d804f24398154e"
+  },
+  "category_id": {
+    "$oid": "61d702cfb4d804f243981558"
+  },
+  "created_at": {
+    "$date": "2022-01-06T19:20:59.974Z"
+  },
+  "__v": 0,
+  "product_feature": "New Design By \"Speed X Fashion\nMade of PU, Dimension- 30 x 12 x 22 CM (LxWxH)\nHandbags: Two Main Compartments with top Zip closer\n(Number of External Pockets: 1) (Number of Inner Pockets: 2)\nSize: Medium/ Looked: Beauty + & Fancy"
+},{
+  "_id": {
+    "$oid": "61d94aa37e2af47b432d9633"
+  },
+  "product_name": "VILLS LAURRENS Analogue Men's Watch ",
+  "product_image": "Black_watch_1.jpeg",
+  "product_desc": "Vills Laurrens brings to you this analog watch which is designed for the man with an adventurous spirit and a knack for stylish timepieces. The watch is black in colour and complements your overall persona when you adorn it. The watch dial has an analog display and comes in a shade of black with a round dial with symbols for hour and minute.",
+  "product_subimages": [
+    "Black_watch_1.jpeg",
+    "Black_watch_2.jpeg",
+    "Black_watch_3.jpeg",
+    "Black_watch_4.jpeg"
+  ],
+  "product_cost": 2499,
+  "product_rating": 3,
+  "color_id": {
+    "$oid": "61d701f6b4d804f24398154a"
+  },
+  "category_id": {
+    "$oid": "61d702aeb4d804f243981552"
+  },
+  "created_at": {
+    "$date": "2022-01-08T08:26:11.658Z"
+  },
+  "__v": 0,
+  "product_feature": "Band Color:\tBlack\nBand Material:\tMetal\nBand Width:\t20 Millimeters\nBrand:\tSonata\nCase Diameter:\t47.5 Millimeters\nCase Material:\tBrass\nDial Color:\tBlack\nCrystal Material:\tMineral\nDisplay Type: Analog\nCase Shape:\tRound\nModel Number\tNN77031KM03\nMovement:\tQuartz\nWater Resistance Depth:\t30 Meters\nWarranty Description:12 months manufacturer warranty on manufacturing defects.",
+  "rated_by": 1
+},{
+  "_id": {
+    "$oid": "61d94b627e2af47b432d9635"
+  },
+  "product_name": "LimeStone Analogue Watch",
+  "product_image": "Blue_watch_1.jpeg",
+  "product_desc": "Beautiful at first sight and breathtaking when adorned, the Designer collection of watches by ASGARD are all about the added dose of charisma, which blend in elegantly with the manly requirements of spreading beauty in every stride they walk with. A Brown Color Leather brought together to form the strap of the watch along with a round face looks beautiful on your wrist. The contemporary design splurged on the White dial background cozies beautifully with the grey designer bezel.",
+  "product_subimages": [
+    "Blue_watch_1.jpeg",
+    "Blue_watch_2.jpeg",
+    "Blue_watch_3.jpeg",
+    "Blue_watch_4.jpeg"
+  ],
+  "product_cost": 1999,
+  "product_rating": 4,
+  "color_id": {
+    "$oid": "61d701cfb4d804f243981548"
+  },
+  "category_id": {
+    "$oid": "61d702aeb4d804f243981552"
+  },
+  "created_at": {
+    "$date": "2022-01-08T08:29:22.461Z"
+  },
+  "__v": 0,
+  "product_feature": "Band Colour:\tBlue\nBand Material:\tLeather\nBand Width:\t22 Millimeters\nBrand:\tREDUX\nCase Diameter:\t38 Millimeters\nCase Material:\tAlloy Steel\nCollection:\tCasual\nDial Colour:  SILVER\nCrystal MateriaL:Glass\nDisplay Type:\tAnalog\nCase Shape:\tRound\nModel Number:\tRWS0216\nMovement:\tQuartz\nWarranty Description:1 Years manufacturer warranty on manufacturing defects"
+},{
+  "_id": {
+    "$oid": "61d94c827e2af47b432d9637"
+  },
+  "product_name": "Fire-Boltt Smart Watch",
+  "product_image": "Grey_watch_1.jpeg",
+  "product_desc": "Industry's first touch to wake featuring full touch smartwatch Full touch screen 1.3 inch HD display smartwatch with SpO2 Fashion on your sleeve - Full metal body and ultra lightweight Designed to make you look stunning always SpO2 Blood oxygen monitoring & Heart Rate tracking & Blood Pressure Tracking 7 Sports Modes - Running, Walking, Cycling, Basketball, Badminton, Football, Skipping, Fitness & Outdoor.",
+  "product_subimages": [
+    "Grey_watch_1.jpeg",
+    "Grey_watch_2.jpeg",
+    "Grey_watch_3.jpeg",
+    "Grey_watch_4.jpeg"
+  ],
+  "product_cost": 2899,
+  "product_rating": 4.9,
+  "color_id": {
+    "$oid": "61d70221b4d804f24398154e"
+  },
+  "category_id": {
+    "$oid": "61d702aeb4d804f243981552"
+  },
+  "created_at": {
+    "$date": "2022-01-08T08:34:10.741Z"
+  },
+  "__v": 0,
+  "product_feature": "CONNECTIVITY: Bluetooth 5.0\nCOMPATIBLITY: Above android 5.0 & IOS 10.0\nBUILT-IN GPS: GPS + GLONASS\nWATER RESISTANCE: 5 ATM\nCALLING: Yes (Built in mic & speaker)\nNOTIFICATIONS: Incoming calls, APP and SMS notifications, idle alerts\nAPP TO CONNECT: ZEPP\nHEART RATE MONITOR: Yes\nINTERNAL STORAGE: Yes, 4GB/user available 2GB\nALEXA INTEGRATION: NO\nHUAMI PAI: Yes\nTYPE:16.5\" (4.19 cm) AMOLED Display\nGorilla Glass 3\nAnti - Fingerprint Coating\nSensors & Components"
+},{
+  "_id": {
+    "$oid": "61d94cf67e2af47b432d9639"
+  },
+  "product_name": "G-Shock Watch",
+  "product_image": "Red_watch_1.jpeg",
+  "product_desc": "Case style: Digital watch with a round case and a stainless steel back Dial style: Black dial, has two digital displays for day and time Features: Shock-resistant, mud-resistant, super illuminator, world time, twin sensors for compass and thermometer, 1/100-second stopwatch, countdown timer, alarm, five press-buttons to adjust the features Strap style: Green synthetic strap secured with a tang clasp closure Water-resistant up to 200 m Comes in a signature CASIO case Warranty: 2 years against manufacturing defects from the date of purchase Warranty provided by Brand Owner / Manufacturer.",
+  "product_subimages": [
+    "Red_watch_1.jpeg",
+    "Red_watch_2.jpeg",
+    "Red_watch_3.jpeg",
+    "Red_watch_4.jpeg"
+  ],
+  "product_cost": 1599,
+  "product_rating": 4,
+  "color_id": {
+    "$oid": "61d70211b4d804f24398154c"
+  },
+  "category_id": {
+    "$oid": "61d702aeb4d804f243981552"
+  },
+  "created_at": {
+    "$date": "2022-01-08T08:36:06.386Z"
+  },
+  "__v": 0,
+  "product_feature": "Band Color:\tRed\nBand Material:\tPlastic\nBand Width:\t22 Millimeters\nBrand:\tCasio\nCalendar Type:\tDay-Date-Month\nCase Diameter:\t50 Millimeters\nCase Material:\tResin\nCollection:\tG-shock\nDial Color:\tBlack\nDisplay Type:\tAnalog-Digital\nCase Shape:\tRound\nModel Number:\tGA-700-4ADR (G716)\nSpecial Features:\tAlarm, Water Resistant, World Time\nMovement:\tQuartz\nWarranty Description:2 Years Manufacturer warranty from the date of purchase"
+},{
+  "_id": {
+    "$oid": "61d94dc57e2af47b432d963b"
+  },
+  "product_name": "US Polo sneakers",
+  "product_image": "Red_shoes_1.jpg",
+  "product_desc": "U.S. Polo Assn. is officially sanctioned by the United States Polo Association, the governing body for the sport of polo in the United States since 1890. U.S. Polo Assn. captures the authenticity of the sport while reflecting its rich history, and stays true to its roots in classic American style updated to complement today’s on-the-go lifestyle. The brand has a presence in over 135 countries, and offers clothing for men, women and children, as well as accessories, luggage, watches, shoes, home furnishings and more.",
+  "product_subimages": [
+    "Red_shoes_1.jpg",
+    "Red_shoes_2.jpg",
+    "Red_shoes_3.jpg",
+    "Red_shoes_4.jpg"
+  ],
+  "product_cost": 1900,
+  "product_rating": 4,
+  "color_id": {
+    "$oid": "61d70211b4d804f24398154c"
+  },
+  "category_id": {
+    "$oid": "61d702bfb4d804f243981556"
+  },
+  "created_at": {
+    "$date": "2022-01-08T08:39:33.816Z"
+  },
+  "__v": 0,
+  "product_feature": "Soft Foam: comfort sock liner for instant step-in and long-lasting comfort that provides soft cushioning every step of your day\nCMEVA: PUMA's compression-moulded EVA material for lightweight performance.\n"
+},{
+  "_id": {
+    "$oid": "61d94eee7e2af47b432d963d"
+  },
+  "product_name": "Campus Men's Rodeo-2 Running Shoes",
+  "product_image": "Grey_shoes_3.jpeg",
+  "product_desc": "Campus presents running shoes, which will help you give your best during the workout and training sessions.Allow your pair of shoes to air and de-odorize at a regular basis, this also helps them retain their natural shape; use shoe bags to prevent any stains or mildew; dust any dry dirt from the surface using a clean cloth, do not use polish or shiner",
+  "product_subimages": [
+    "Grey_shoes_1.jpeg",
+    "Grey_shoes_2.jpeg",
+    "Grey_shoes_3.jpeg",
+    "Grey_shoes_4.jpeg"
+  ],
+  "product_cost": 2900,
+  "product_rating": 3,
+  "color_id": {
+    "$oid": "61d70221b4d804f24398154e"
+  },
+  "category_id": {
+    "$oid": "61d702bfb4d804f243981556"
+  },
+  "created_at": {
+    "$date": "2022-01-08T08:44:30.327Z"
+  },
+  "__v": 0,
+  "product_feature": "NIT Shoes FOAM: PUMA's advanced technology providing superior responsive Essential and cushioning in a lightweight \nINNOPLATE: PUMA's innovative plate designed to act as a lever for maximum energy transfer at toe-off\nPUMAG Shoes: PUMA's durable rubber compound that provides all-surface action"
+},{
+  "_id": {
+    "$oid": "61d94fb07e2af47b432d963f"
+  },
+  "product_name": "Sparx Sneakers",
+  "product_image": "Black_shoes_1.jpg",
+  "product_desc": "Sparx is a spectacular range of footwear from the house of Relaxo Footwears Ltd., a name trusted among millions of people in India and across the world for delivering unmatched quality. Since its inception, the company has established a benchmark for bringing the finest range of footwears.",
+  "product_subimages": [
+    "Black_shoes_1.jpg",
+    "Black_shoes_2.jpg",
+    "Black_shoes_3.jpg",
+    "Black_shoes_4.jpg"
+  ],
+  "product_cost": 1600,
+  "product_rating": 5,
+  "color_id": {
+    "$oid": "61d701f6b4d804f24398154a"
+  },
+  "category_id": {
+    "$oid": "61d702bfb4d804f243981556"
+  },
+  "created_at": {
+    "$date": "2022-01-08T08:47:44.511Z"
+  },
+  "__v": 0,
+  "product_feature": "LQDCELL: PUMA’s solution for stable cushioning engineered with our liquid CELL hexagons"
+},{
+  "_id": {
+    "$oid": "61d94ffc7e2af47b432d9641"
+  },
+  "product_name": "HRX Sports Shoes",
+  "product_image": "Blue_shoes_1.jpg",
+  "product_desc": "The new race-ready HRX performance running shoe from the PROPULSION collection with lightweight midsole that returns energy with each step & propels runners forward & faster. Engineered knit upper provides the ultimate comfort fit.",
+  "product_subimages": [
+    "Blue_shoes_1.jpg",
+    "Blue_shoes_2.jpg",
+    "Blue_shoes_3.jpg",
+    "Blue_shoes_4.jpg"
+  ],
+  "product_cost": 4300,
+  "product_rating": 5,
+  "color_id": {
+    "$oid": "61d701cfb4d804f243981548"
+  },
+  "category_id": {
+    "$oid": "61d702bfb4d804f243981556"
+  },
+  "created_at": {
+    "$date": "2022-01-08T08:49:00.677Z"
+  },
+  "__v": 0,
+  "product_feature": "The HRX Shoes is a lightweight men's shoe that is also an excellent provider of support and some light cushioning. \nFor optimum comfort and cushioning this shoe features Shoes technology. Thanks to its rubber outsole you will be able to\n turn on a dime and make all of the fast moves that you need to."
+},{
+  "_id": {
+    "$oid": "61d950cd7e2af47b432d9643"
+  },
+  "product_name": "Scott International Men's Jacket",
+  "product_image": "Blue_jacket_1.webp",
+  "product_desc": "JACKET IN YOUR POCKET is the Tagline that uniquely identifies this Jacket. As it says, this Jacket is so ULTRALIGHT WEIGHT that you can literally convert one of your front pockets into a Pouch (*REVERSIBLE ZIP provided on one Side) and fold the entire Jacket into as small as the Size of your Wrist. Ultra Light weight, Breathable, Dust repellant and keeps you comfortable during all seasons. Stylish Raglan Sporty design, Durable Stitching and finish.",
+  "product_subimages": [
+    "Blue_jacket_1.webp",
+    "Blue_jacket_2.webp",
+    "Blue_jacket_3.webp",
+    "Blue_jacket_4.webp"
+  ],
+  "product_cost": 899,
+  "product_rating": 4.4,
+  "color_id": {
+    "$oid": "61d701cfb4d804f243981548"
+  },
+  "category_id": {
+    "$oid": "61d702b9b4d804f243981554"
+  },
+  "created_at": {
+    "$date": "2022-01-08T08:52:29.215Z"
+  },
+  "__v": 0,
+  "product_feature": "Removable elbow, shoulder and back protection.\nWaterproof jacket in 500D elastic  fabric with membrane(waterproofness of 15.000 mm water column, breathability of 15.000g/m2/24h).\nStretch fabric inserts for optimum freedom of movement and comfort.\nInvisible waterproof zip, front central opening.\nExposed waterproof zip on jacket front for: 1) ventilation 2) cargo pocket.\nPockets for external sleeve protection.\n4 external pockets, 1 sleeve pocket, 1 internal pocket, 2 pockets in removable external padding.\nside adjustment by means of drawstring and rubberized buckles.\nRemovable inner jacket with mini rip stop fabric + fleece"
+},{
+  "_id": {
+    "$oid": "61d951e97e2af47b432d9645"
+  },
+  "product_name": "Leather Jacket",
+  "product_image": "Black_jacket_1.jpg",
+  "product_desc": "Faux PU Leather, inner lining 100% polyester. Durable and comfortable material with soft touch.Adjustable zipper cuffs,stitching detail. Classic windproof outwear, easily match with jeans, perfect for  yourcasual wear, dating, biking, motorcycling and other outdoor activities. Exquisite workmanship, stripe design on shoulders increase its sense of style and modern. The design of collar with soft lining keeps your neck warmer and comfortable for all-season wear, especially for autumn and winter cold time. Please avoid direct exposure to the sun and light wash.",
+  "product_subimages": [
+    "Black_jacket_1.jpg",
+    "Black_jacket_2.jpg",
+    "Black_jacket_3.jpg",
+    "Black_jacket_4.jpg"
+  ],
+  "product_cost": 3999,
+  "product_rating": 4.4,
+  "color_id": {
+    "$oid": "61d701f6b4d804f24398154a"
+  },
+  "category_id": {
+    "$oid": "61d702b9b4d804f243981554"
+  },
+  "created_at": {
+    "$date": "2022-01-08T08:57:13.676Z"
+  },
+  "__v": 0,
+  "product_feature": "Comes with D3O  protection for your back, shoulders and elbows.\nExtra layer to keep you warm on cold days but (removable for warmer weather).\nAir Vent System (AVS) that let your body breath when it's hot.\nBack protector is supplied."
+},{
+  "_id": {
+    "$oid": "61d952df7e2af47b432d9647"
+  },
+  "product_name": "Sports Jacket ",
+  "product_image": "Red_jacket_1.jpeg",
+  "product_desc": "Red solid self design sporty jacket, has a stand collar, pockets ,has a zip closure, long sleeves, straight hemline, polyester lining.",
+  "product_subimages": [
+    "Red_jacket_1.jpeg",
+    "Red_jacket_2.jpeg",
+    "Red_jacket_3.jpeg",
+    "Red_jacket_4.jpeg"
+  ],
+  "product_cost": 2999,
+  "product_rating": 4,
+  "color_id": {
+    "$oid": "61d70211b4d804f24398154c"
+  },
+  "category_id": {
+    "$oid": "61d702b9b4d804f243981554"
+  },
+  "created_at": {
+    "$date": "2022-01-08T09:01:19.839Z"
+  },
+  "__v": 0,
+  "product_feature": "Sleeve Length :Long Sleeves\nType :Bomber\nCollar :Mandarin Collar\nPrint or Pattern Type :Brand Logo\nLength :Regular\nClosure :Zip\nLining Fabric :Polyester\nNumber of Pockets:2\nHemline :Straight\nSurface Styling :Zip Detail\nOccasion :Casual\nSurface Styling :Zip Detail"
+},{
+  "_id": {
+    "$oid": "61d953387e2af47b432d9649"
+  },
+  "product_name": "Puffer Jacket ",
+  "product_image": "Grey_jacket_1.jpg",
+  "product_desc": "Grey colourblocked jacket, has a mock collar, 2 pockets, zip closure, long sleeves, straight hem, and nylon lining.",
+  "product_subimages": [
+    "Grey_jacket_1.jpg",
+    "Grey_jacket_2.jpg",
+    "Grey_jacket_3.jpg",
+    "Grey_jacket_4.jpg"
+  ],
+  "product_cost": 2799,
+  "product_rating": 5,
+  "color_id": {
+    "$oid": "61d70221b4d804f24398154e"
+  },
+  "category_id": {
+    "$oid": "61d702b9b4d804f243981554"
+  },
+  "created_at": {
+    "$date": "2022-01-08T09:02:48.083Z"
+  },
+  "__v": 0,
+  "product_feature": "Sleeve Length:Long Sleeves\nType: Padded Jacket\nCollar: Hooded\nPrint or Pattern Type: Solid\nLength: Regular\nClosure: Zip\nLining Fabric: Polyester\nNumber of Pockets:2\nHemline: Straight\nOccasion: Casual"
+},{
+  "_id": {
+    "$oid": "61d954677e2af47b432d964b"
+  },
+  "product_name": "Sofa Set",
+  "product_image": "Black_sofa_1.jpg",
+  "product_desc": "Bharat Lifestyle brings to you modern and comfortable sofa set for your living room.Bharat Lifestyle Tulip Cream Brown Soft Touch Fabric 3+1+1 Sofa Set is made of Acacia wood. It has an elegant design which enhances the interior decor of your living room. Designed in such a way, the sofa is comfortable to sit. The best part it, it comes with good price without compromising on quality. Buy this sofa today!",
+  "product_subimages": [
+    "Black_sofa_1.jpg",
+    "Black_sofa_2.jpg",
+    "Black_sofa_3.jpg",
+    "Black_sofa_4.jpg"
+  ],
+  "product_cost": 20999,
+  "product_rating": 5,
+  "color_id": {
+    "$oid": "61d701f6b4d804f24398154a"
+  },
+  "category_id": {
+    "$oid": "61d702a7b4d804f243981550"
+  },
+  "created_at": {
+    "$date": "2022-01-08T09:07:51.227Z"
+  },
+  "__v": 0,
+  "product_feature": "Color: BLACK\nSales Package:1 Sofa, Warranty Card, 4 Legs\nModel Number: BERRY/55001/A/3\nSecondary Material: Solid Wood\nSuitable For: Living Room\nStyle: Contemporary & Modern\nConfiguration: Straight\nUpholstery Included: Yes\nUpholstery Type: Cushion\nUpholstery Material: Leatherette\nUpholstery Material Subtype: Imitation Leather\nUpholstery Color: BLACK"
+},{
+  "_id": {
+    "$oid": "61d954fd7e2af47b432d964d"
+  },
+  "product_name": "Blue Sofa Set",
+  "product_image": "Blue_sofa_1.jpg",
+  "product_desc": "This sofa set is a clear all-rounder when it comes to using it for any weather, be it summer or winter, thanks to its fabric upholstery which offers long-lasting comfort.",
+  "product_subimages": [
+    "Blue_sofa_1.jpg",
+    "Blue_sofa_2.jpg",
+    "Blue_sofa_3.jpg",
+    "Blue_sofa_4.jpg"
+  ],
+  "product_cost": 21999,
+  "product_rating": 3.4,
+  "color_id": {
+    "$oid": "61d701cfb4d804f243981548"
+  },
+  "category_id": {
+    "$oid": "61d702a7b4d804f243981550"
+  },
+  "created_at": {
+    "$date": "2022-01-08T09:10:21.024Z"
+  },
+  "__v": 0,
+  "product_feature": "Color: BLUE\nSales Package: 1 Sofa Sectional with Cushion\nModel Number: Nano_Printed_DR_GR_RHD\nSecondary Material: Solid Wood\nSecondary Material Subtype: Acacia (Kasia)\nConfiguration : L-shaped\nUpholstery Material: Fabric\nUpholstery Material Subtype: Polycotton\nUpholstery Color: BLUE\nFilling Material: Foam\nFinish Type: Matte",
+  "rated_by": 1
+},{
+  "_id": {
+    "$oid": "61d955aa7e2af47b432d9650"
+  },
+  "product_name": "Grey Sofa Set",
+  "product_image": "Grey_sofa_1.jpg",
+  "product_desc": "Amp up your living room with the Westido Fabric 3+1+1 Navy Blue Sofa Set. Featuring scratch-resistant fabric, high-grade solid wood and high-density foam, this sofa will be comfortable to sit on and will complement your living space as well.",
+  "product_subimages": [
+    "Grey_sofa_1.jpg",
+    "Grey_sofa_2.jpg",
+    "Grey_sofa_3.jpg",
+    "Grey_sofa_4.jpg"
+  ],
+  "product_cost": 19999,
+  "product_rating": 4,
+  "color_id": {
+    "$oid": "61d70221b4d804f24398154e"
+  },
+  "category_id": {
+    "$oid": "61d702a7b4d804f243981550"
+  },
+  "created_at": {
+    "$date": "2022-01-08T09:13:14.121Z"
+  },
+  "__v": 0,
+  "product_feature": "Color: GREY\nModel Number: EURO_GREY_3_2\nUpholstery Material: Fabric\nFrame Material: Solid Wood\nFrame Material Subtype: Acacia (Kasia)\nUpholstery Type: Cushion\nPrimary Color: Grey\nFilling Material: Foam\nUpholstery Color: Grey\nFinish Type: MATTE\nModular: Yes"
+},{
+  "_id": {
+    "$oid": "61d956377e2af47b432d9652"
+  },
+  "product_name": "Red Sofa Set",
+  "product_image": "Red_sofa_1.jpg",
+  "product_desc": "The color of the product may vary slightly from the picture displayed on your screen: this is due to lighting, pixel quality and color settings. Please check the product dimensions to ensure the product will fit in the desired location. Also, check if the product will fit through the entrance(s) and door(s) of the premises. And if there is no elevator in a multi-storey building, we might be unable to deliver the item to your doorstep. Please expect an unevenness of up to 5 mm in the product due to differences in surfaces and floor levels. Flipkart, or the Seller delivering the product, will not take up any type of civil work, such as drilling holes in the wall to mount the product.",
+  "product_subimages": [
+    "Red_sofa_1.jpg",
+    "Red_sofa_2.jpg",
+    "Red_sofa_3.jpg",
+    "Red_sofa_4.jpg"
+  ],
+  "product_cost": 15999,
+  "product_rating": 3,
+  "color_id": {
+    "$oid": "61d70211b4d804f24398154c"
+  },
+  "category_id": {
+    "$oid": "61d702a7b4d804f243981550"
+  },
+  "created_at": {
+    "$date": "2022-01-08T09:15:35.247Z"
+  },
+  "__v": 0,
+  "product_feature": "Color: RED\nBrand: CRUZ INTERNATIONAL\nModel Number: ASGI0016\nSeating Capacity: 3\nFinish Type: Matte\nType: Settee\nUpholstery Type: Cushion\nSuitable For: Living Room, Seating\nHeight 38 Inch. x Width 60 Inch. x Depth 24 Inch.\nPrimary Material: Solid Wood\nSecondary Material: Foam, Fabric\nAdds to the pride of the Place, Luxury Look",
+  "rated_by": 1
+}]

@@ -1,0 +1,52 @@
+[{
+  "_id": {
+    "$oid": "61e002cea2673167a1c0fb1f"
+  },
+  "firstname": "Tejal",
+  "lastname": "Supe",
+  "contact": 9999999997,
+  "email": "tejal123supe@gmail.com",
+  "gender": "female",
+  "password": "$2b$10$9NWaHmVouUgdSgWYyX.mEeqOG53I9Y72U5qyoWugDmmt/F8UiS0EG",
+  "addresses": [
+    {
+      "address": "C/115 Sai Heritage",
+      "city": "amb",
+      "pincode": "421501",
+      "states": "Maharashtra",
+      "country": "India"
+    }
+  ],
+  "cart": [],
+  "__v": 0,
+  "profilepic": "user-6295120.jpg"
+},{
+  "_id": {
+    "$oid": "61e42fb2d2a2e7d803dd4c33"
+  },
+  "firstname": "teju",
+  "lastname": "supe",
+  "contact": 9604476333,
+  "email": "supetejalc@gmail.com",
+  "gender": "female",
+  "password": "$2b$10$hWCsP1XBhGp8VtTRa9JU4eQ.N9QEy5BM1Fw.Ql4s8CGloJkSEqPV6",
+  "addresses": [
+    {
+      "address": "C115 Sai Heritage",
+      "pincode": 421501,
+      "city": "amb",
+      "states": "Maharashtra",
+      "country": "India"
+    },
+    {
+      "address": "www",
+      "pincode": 421344,
+      "city": "thane",
+      "states": "maharahtra",
+      "country": "India"
+    }
+  ],
+  "cart": null,
+  "__v": 0,
+  "profilepic": "user-de9993e752fc52646579448542c411d3.jpg"
+}]

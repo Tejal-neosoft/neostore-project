@@ -1,0 +1,433 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Bebas+Neue&family=Lobster&family=Roboto+Slab:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@600&display=swap');
+
+:root {
+  /* --body-bg: rgb(204, 204, 204); */
+  /* --white: #ffffff; */
+  --darkWhite: #ccc;
+  --black: #000000;
+  --dark: #615c60;
+  /* --themeColor: #c90016; */
+  --pageShadow: 0 0 0.5cm rgba(0, 0, 0, 0.5);
+}
+
+.App {
+  /* text-align: center; */
+  letter-spacing: 1px;
+}
+
+/* Navbar */
+.dropdown-toggle::after{
+  visibility:hidden;
+}
+
+/* Login */
+.login-div{
+  background: -webkit-linear-gradient(rgba(0,0,0, 0.3), rgba(0,0,0, 0.3)), url("https://media.istockphoto.com/photos/modern-living-room-interior-3d-render-picture-id1293762741?b=1&k=20&m=1293762741&s=170667a&w=0&h=2RI8SmBN4MrEZuTvdwRzaeB887x-dukFcQBpyQ-qwS4=");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 30px;  
+  margin: auto;
+  margin-top: 10px;
+}
+
+.login-right{
+box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+border-radius: 0.9rem;
+background: rgba( 255, 255, 255, 0.3 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 13.5px );
+-webkit-backdrop-filter: blur( 10.5px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+width: 444px;
+padding: 20px;
+/* margin: auto; */
+}
+
+.bottom-login{
+  margin: auto;
+}
+
+/* Register */
+.registerdiv::before{
+  content:"";
+  position:absolute;
+  background: -webkit-linear-gradient(rgba(0,0,0, 0.3), rgba(0,0,0, 0.3)), url("https://damroindia.com/media/bsimages/Main_Banner_1_3_.jpg");
+  height: 100%;
+  width: 100%;
+  z-index: -1;
+  top: 12px;
+  left: 0px;
+  
+}
+
+.form-div{
+  background: rgba( 255, 255, 255, 0.25 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 13.5px );
+-webkit-backdrop-filter: blur( 10.5px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+  width: 400px;
+  border-radius: 10px;
+  
+}
+
+/* Dashboard */
+.buttonCss {
+  padding: 1.3em 3em;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 2.5px;
+  font-weight: 500;
+  color: #000;
+  background-color: #fff;
+  border: none;
+  /* border-radius: 45px; */
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease 0s;
+  cursor: pointer;
+  outline: none;
+ }
+ 
+ .buttonCss:hover {
+  background-color: #2EE59D;
+  box-shadow: 0px 15px 20px rgba(46, 229, 157, 0.4);
+  color: #fff;
+  transform: translateY(-7px);
+ }
+.heading_dash{
+  font-family: 'Lobster', cursive;
+  font-size: 2.4rem;
+  letter-spacing: 1.6px;
+  color: #319177;
+  text-shadow: 2px red;
+}
+/* Product */
+.product{
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.product:hover{
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+.category{
+  text-decoration: none;
+}
+.category li{
+  list-style-type: none;
+}
+.buttonCss {
+  padding: 1.3em 3em;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 2.5px;
+  font-weight: 500;
+  color: #000;
+  background-color: #fff;
+  border: none;
+  /* border-radius: 45px; */
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease 0s;
+  cursor: pointer;
+  outline: none;
+ }
+ 
+ .buttonCss:hover {
+  background-color: #2EE59D;
+  box-shadow: 0px 15px 20px rgba(46, 229, 157, 0.4);
+  color: #fff;
+  transform: translateY(-7px);
+ }
+ /* Address */
+ .heading_address{
+  /* font-family: 'Lobster', 'cursive'; */
+  /* font-family: 'Roboto Slab', serif; */
+  letter-spacing: 1px;
+
+}
+/* Profile */
+.entry_data{
+  /* border: 1px solid red; */
+  margin-left: 2rem;
+  color: teal;
+}
+
+/* Order */
+.heading_order{
+  font-family: 'Lobster', cursive;
+  color: #126180;
+}
+.head_order{
+  letter-spacing: 2px;
+}
+
+/* Forget Password */
+.fp_form-container{
+    
+  letter-spacing: 1px;
+}
+.fp_bg{
+  background-color: mintcream;
+}
+.fp_heading_reset{
+  margin-top:1rem;
+  margin-left: 4rem;
+  font-family: 'Roboto Slab', serif;
+}
+.fp_image{
+  background: url('https://i.pinimg.com/736x/e0/7d/22/e07d228a9c1ce2f48caae0cd3c953574.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+
+}
+.fp_form-box{
+  background-color: white;
+  height: 25.2rem;
+  width: 30rem;
+  margin-top: 7rem;
+  /* margin-left: 18rem; */
+  /* left: 40%; */
+  padding: 2.5rem;
+  margin-bottom: 4.8rem;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}
+.fp_otp{
+  color:green;
+  margin-left: 3rem;
+  font-family: 'Roboto Slab', serif;
+}
+.fp_otp1{
+  color:green;
+  margin-left: 5rem;
+  font-family: 'Roboto Slab', serif;
+}
+.fp_input{ 
+  width:80%;
+  border-radius: 20px;
+  margin-left: 2.5rem;
+  margin-top: 0.8rem;
+  padding: 3px;
+  text-align: center;
+}
+.fp_submit{
+width: 35%;
+margin-left: 8rem;
+margin-top: 1rem;
+border-radius: 20px;
+text-align: center;
+background-color: #41ce1e;
+color: white;
+}
+
+
+
+
+/* Invoice */
+
+.page {
+  background: var(--white);
+  display: block;
+  width: 60vw;
+  margin: 0 auto;
+  position: relative;
+  box-shadow: var(--pageShadow);
+}
+
+.page[size="A4"] {
+  width: 21cm;
+  height: 29.7cm;
+  overflow: hidden;
+}
+
+.bb {
+  border-bottom: 3px solid var(--darkWhite);
+}
+
+/* Top Section */
+.top-content {
+  padding-bottom: 15px;
+}
+
+.logo img {
+  height: 60px;
+}
+
+.top-left p {
+  margin: 0;
+}
+
+
+/* User Store Section */
+.store-user {
+  padding-bottom: 25px;
+}
+
+.store-user p {
+  margin: 0;
+  font-weight: 600;
+}
+
+.store-user .address {
+  font-weight: 400;
+}
+
+.store-user h2 {
+  /* color: var(--themeColor); */
+  font-family: 'Rajdhani', sans-serif;
+}
+
+.extra-info p span {
+  font-weight: 400;
+}
+
+/* Product Section */
+
+
+.table td,
+.table th {
+  text-align: center;
+  vertical-align: middle;
+}
+
+tr th:first-child,
+tr td:first-child {
+  text-align: left;
+}
+
+.media img {
+  height: 60px;
+  width: 60px;
+}
+
+.media p {
+  font-weight: 400;
+  margin: 0;
+}
+
+.media p.title {
+  font-weight: 600;
+}
+
+/* Balance Info Section */
+.balance-info .table td,
+.balance-info .table th {
+  padding: 0;
+  border: 0;
+}
+
+.balance-info tr td:first-child {
+  font-weight: 600;
+}
+
+tfoot {
+  border-top: 2px solid var(--darkWhite);
+}
+
+tfoot td {
+  font-weight: 600;
+}
+
+/* Cart BG */
+.cart-bg {
+  height: 250px;
+  bottom: 32px;
+  left: -40px;
+  opacity: 0.3;
+  position: absolute;
+}
+
+/* checkout  */
+.card_checkout{
+  background:#16181a;
+    border-radius:14px;
+     max-width: 34rem; 
+     display:block;
+      margin:auto;
+  padding:60px;
+   padding-left:20px;
+    padding-right:20px;
+    box-shadow: 2px 10px 40px black; 
+    z-index:99;
+    height: 20rem;
+    /* overflow-y: auto; */
+    /* min-height: fit-content; */
+}
+
+.logo-card{
+  max-width:50px;
+   margin-bottom:15px; 
+   margin-top: -19px;
+  }
+
+.label_check{
+  display:flex; 
+  font-size:13px; 
+  color:white;
+   opacity:.4;}
+
+.input_ch{
+  font-family: 'Work Sans', sans-serif;
+  background:transparent; 
+  border:none;
+   border-bottom:1px solid transparent; 
+   color:#dbdce0; 
+   transition: border-bottom .4s;
+  }
+
+.input_ch:focus{
+  border-bottom:1px solid #1abc9c;
+   outline:none;
+  }
+
+.cardnumber{
+  display:block; 
+  font-size:20px;
+   margin-bottom:8px; }
+
+.name_ch{
+  display:block;
+   font-size:15px; 
+   width: 230px; 
+   float:left;
+    margin-bottom:15px;
+  }
+
+.toleft{
+  float:left;
+}
+.ccv{
+  width:55px;
+   margin-top:-5px;
+    font-size:15px;
+  }
+
+
+.proceed{
+  position:absolute;
+   transform:translate(495px, 50px); 
+   width:50px; 
+   height:50px; 
+   border-radius:50%; 
+   background:#1abc9c;
+    border:none;
+    color:white; 
+    transition: box-shadow .2s, transform .4s;
+     cursor:pointer;
+  }
+
+
+
+
+
+
+@media screen and (min-width: 280px) {
+  .login-inner{
+    padding: 20px;
+}
+
+}

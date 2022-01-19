@@ -1,0 +1,46 @@
+[{
+  "_id": {
+    "$oid": "61d702a7b4d804f243981550"
+  },
+  "category_name": "Sofa",
+  "created_at": {
+    "$date": "2022-01-06T14:54:31.402Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61d702aeb4d804f243981552"
+  },
+  "category_name": "Watch",
+  "created_at": {
+    "$date": "2022-01-06T14:54:38.788Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61d702b9b4d804f243981554"
+  },
+  "category_name": "Jacket",
+  "created_at": {
+    "$date": "2022-01-06T14:54:49.653Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61d702bfb4d804f243981556"
+  },
+  "category_name": "Shoes",
+  "created_at": {
+    "$date": "2022-01-06T14:54:55.633Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61d702cfb4d804f243981558"
+  },
+  "category_name": "Handbag",
+  "created_at": {
+    "$date": "2022-01-06T14:55:11.495Z"
+  },
+  "__v": 0
+}]

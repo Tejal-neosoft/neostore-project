@@ -1,0 +1,621 @@
+[{
+  "_id": {
+    "$oid": "61e3b1e5f9d2caad05fd978a"
+  },
+  "user_email": "tejal123supe@gmail.com",
+  "card_name": "tejal supe",
+  "subtotal": 15795,
+  "gst": 789.75,
+  "totalCart": [
+    {
+      "_id": "61d73eb8b4d804f24398155a",
+      "product_name": "Black Handbag",
+      "product_image": "black_handbag_1.jpeg",
+      "product_desc": "Sophisticated, formal, luxurious, powerful: black is the colour for an elegant, confident. Despite what people often think, black is distinctive and memorable: a woman with a black bag must be taken seriously. You can pair it with other colours to make them stand out and to add a touch of confidence to any look.",
+      "product_subimages": [
+        "black_handbag_1.jpeg",
+        "black_handbag_2.jpeg",
+        "black_handbag_3.jpeg",
+        "black_handbag_4.jpeg"
+      ],
+      "product_cost": 899,
+      "product_rating": 4,
+      "color_id": {
+        "_id": "61d701f6b4d804f24398154a",
+        "color_name": "Black",
+        "color_code": "#000000",
+        "__v": 0
+      },
+      "category_id": {
+        "_id": "61d702cfb4d804f243981558",
+        "category_name": "Handbag",
+        "created_at": "2022-01-06T14:55:11.495Z",
+        "__v": 0
+      },
+      "created_at": "2022-01-06T19:10:48.192Z",
+      "__v": 0,
+      "product_feature": "Product Material: Faux Leather\nProduct Color: Black\nProduct Occasion: CASUAL, PARTY\nProduct Warranty: Warranty against manufacturing defects within 10 days of purchase\nWater Resistant: This product is water resistant. Wipe with a dry/damp cloth to clean. Do not wash.\nProduct Pattern: 2 handles; 1 adjustable long belt(detachable), Closure: Snap",
+      "rated_by": 1,
+      "quantity": 1
+    },
+    {
+      "_id": "61d953387e2af47b432d9649",
+      "product_name": "Puffer Jacket ",
+      "product_image": "Grey_jacket_1.jpg",
+      "product_desc": "Grey colourblocked jacket, has a mock collar, 2 pockets, zip closure, long sleeves, straight hem, and nylon lining.",
+      "product_subimages": [
+        "Grey_jacket_1.jpg",
+        "Grey_jacket_2.jpg",
+        "Grey_jacket_3.jpg",
+        "Grey_jacket_4.jpg"
+      ],
+      "product_cost": 2799,
+      "product_rating": 5,
+      "color_id": {
+        "_id": "61d70221b4d804f24398154e",
+        "color_name": "Grey",
+        "color_code": "#808080",
+        "__v": 0
+      },
+      "category_id": {
+        "_id": "61d702b9b4d804f243981554",
+        "category_name": "Jacket",
+        "created_at": "2022-01-06T14:54:49.653Z",
+        "__v": 0
+      },
+      "created_at": "2022-01-08T09:02:48.083Z",
+      "__v": 0,
+      "product_feature": "Sleeve Length:Long Sleeves\nType: Padded Jacket\nCollar: Hooded\nPrint or Pattern Type: Solid\nLength: Regular\nClosure: Zip\nLining Fabric: Polyester\nNumber of Pockets:2\nHemline: Straight\nOccasion: Casual",
+      "quantity": 1
+    },
+    {
+      "_id": "61d74096b4d804f24398155e",
+      "product_name": "Mammon Women's Handbag",
+      "product_image": "red_handbag_1.jpeg",
+      "product_desc": "Style and Fashion: This product is design for modern people who wants to change with the world. This product will be add on for your personality. Applications - Perfect for the Trips, Vacation, Travel, School, Shopping or any other kind of Leisure Activities. Features- Sets of 6 piece of Bags with Zipper Closure, Adjustable Strap with Solid Finishing. Material- Pure PU Leather material.",
+      "product_subimages": [
+        "red_handbag_1.jpeg",
+        "red_handbag_2.jpeg",
+        "red_handbag_3.jpeg",
+        "red_handbag_4.jpeg"
+      ],
+      "product_cost": 4999,
+      "product_rating": 5,
+      "color_id": {
+        "_id": "61d70211b4d804f24398154c",
+        "color_name": "Red",
+        "color_code": "#E84855",
+        "__v": 0
+      },
+      "category_id": {
+        "_id": "61d702cfb4d804f243981558",
+        "category_name": "Handbag",
+        "created_at": "2022-01-06T14:55:11.495Z",
+        "__v": 0
+      },
+      "created_at": "2022-01-06T19:18:46.835Z",
+      "__v": 0,
+      "product_feature": "Dimensions: 21.5 cm x 18 cm x 7 cm\nproduct material:100% nylon satin\nType:Versatile bag\nProduct pattern :Inner zip pocket\nClosure Type: Zip closure\nHook-and-loop tab keeps handles together\nRemovable, adjustable shoulder strap\nColor: Legacy Red",
+      "quantity": 1
+    },
+    {
+      "_id": "61d94fb07e2af47b432d963f",
+      "product_name": "Sparx Sneakers",
+      "product_image": "Black_shoes_1.jpg",
+      "product_desc": "Sparx is a spectacular range of footwear from the house of Relaxo Footwears Ltd., a name trusted among millions of people in India and across the world for delivering unmatched quality. Since its inception, the company has established a benchmark for bringing the finest range of footwears.",
+      "product_subimages": [
+        "Black_shoes_1.jpg",
+        "Black_shoes_2.jpg",
+        "Black_shoes_3.jpg",
+        "Black_shoes_4.jpg"
+      ],
+      "product_cost": 1600,
+      "product_rating": 5,
+      "color_id": {
+        "_id": "61d701f6b4d804f24398154a",
+        "color_name": "Black",
+        "color_code": "#000000",
+        "__v": 0
+      },
+      "category_id": {
+        "_id": "61d702bfb4d804f243981556",
+        "category_name": "Shoes",
+        "created_at": "2022-01-06T14:54:55.633Z",
+        "__v": 0
+      },
+      "created_at": "2022-01-08T08:47:44.511Z",
+      "__v": 0,
+      "product_feature": "LQDCELL: PUMA’s solution for stable cushioning engineered with our liquid CELL hexagons",
+      "quantity": 1
+    },
+    {
+      "_id": "61d94aa37e2af47b432d9633",
+      "product_name": "VILLS LAURRENS Analogue Men's Watch ",
+      "product_image": "Black_watch_1.jpeg",
+      "product_desc": "Vills Laurrens brings to you this analog watch which is designed for the man with an adventurous spirit and a knack for stylish timepieces. The watch is black in colour and complements your overall persona when you adorn it. The watch dial has an analog display and comes in a shade of black with a round dial with symbols for hour and minute.",
+      "product_subimages": [
+        "Black_watch_1.jpeg",
+        "Black_watch_2.jpeg",
+        "Black_watch_3.jpeg",
+        "Black_watch_4.jpeg"
+      ],
+      "product_cost": 2499,
+      "product_rating": 4.4,
+      "color_id": {
+        "_id": "61d701f6b4d804f24398154a",
+        "color_name": "Black",
+        "color_code": "#000000",
+        "__v": 0
+      },
+      "category_id": {
+        "_id": "61d702aeb4d804f243981552",
+        "category_name": "Watch",
+        "created_at": "2022-01-06T14:54:38.788Z",
+        "__v": 0
+      },
+      "created_at": "2022-01-08T08:26:11.658Z",
+      "__v": 0,
+      "product_feature": "Band Color:\tBlack\nBand Material:\tMetal\nBand Width:\t20 Millimeters\nBrand:\tSonata\nCase Diameter:\t47.5 Millimeters\nCase Material:\tBrass\nDial Color:\tBlack\nCrystal Material:\tMineral\nDisplay Type: Analog\nCase Shape:\tRound\nModel Number\tNN77031KM03\nMovement:\tQuartz\nWater Resistance Depth:\t30 Meters\nWarranty Description:12 months manufacturer warranty on manufacturing defects.",
+      "quantity": 1
+    },
+    {
+      "_id": "61d73fe0b4d804f24398155c",
+      "product_name": "Paradox Women's Matte Finish Handbag",
+      "product_image": "blue_handbag_1.jpg",
+      "product_desc": "This handbag is made from PU material and is  Blue in colour. The handbag has compartments to store your belongings in an organized way. It is a suitable choice when you want to carry your essentials in style without compromising on utility. Compartment Description The wallet features two main compartments with an inner compartment with zipper closure to store your cash and coins. The compartments have adequate space for your essentials like cosmetics, cash, coins, cell phone and other miscellaneous stuff. The handbag has an inner lining along the compartments and also comes with an inner zip compartment to store your id and other important cards.",
+      "product_subimages": [
+        "blue_handbag_1.jpg",
+        "blue_handbag_2.jpg",
+        "blue_handbag_3.jpg",
+        "blue_handbag_4.jpg"
+      ],
+      "product_cost": 2999,
+      "product_rating": 4.5,
+      "color_id": {
+        "_id": "61d701cfb4d804f243981548",
+        "color_name": "Blue",
+        "color_code": "#0000FF",
+        "__v": 0
+      },
+      "category_id": {
+        "_id": "61d702cfb4d804f243981558",
+        "category_name": "Handbag",
+        "created_at": "2022-01-06T14:55:11.495Z",
+        "__v": 0
+      },
+      "created_at": "2022-01-06T19:15:44.404Z",
+      "__v": 0,
+      "product_feature": "Color: Navy Blue, PU leather material , \nClosure: Zip Closure Strap \nType: Handle;\nOccasion: Casual\nParty wear ,casual ,formal ,office use, Light weight and spacious, Designer collection\nThis can also be a fantastic gift for your lovely wife or a special friend on her birthday  anniversary to make her feel special and loved✅\nDimensions-;Length:40cm, Height:30cm and Widt:10cm , 2 Compartment, 6 outer Pocket.1 inner pocket,\nDo not expose to extreme heat",
+      "quantity": 1
+    }
+  ],
+  "addresses": [
+    {
+      "address": "C/115 Sai Heritage",
+      "city": "amb",
+      "pincode": "421501",
+      "states": "Maharashtra",
+      "country": "India"
+    }
+  ],
+  "created_at": {
+    "$date": "2022-01-16T05:49:25.610Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e419e7c8196a55f6311ced"
+  },
+  "user_email": "tejal123supe@gmail.com",
+  "card_name": "tejal supe",
+  "subtotal": 8897,
+  "gst": 444.85,
+  "totalCart": [
+    {
+      "_id": "61d73eb8b4d804f24398155a",
+      "product_name": "Black Handbag",
+      "product_image": "black_handbag_1.jpeg",
+      "product_desc": "Sophisticated, formal, luxurious, powerful: black is the colour for an elegant, confident. Despite what people often think, black is distinctive and memorable: a woman with a black bag must be taken seriously. You can pair it with other colours to make them stand out and to add a touch of confidence to any look.",
+      "product_subimages": [
+        "black_handbag_1.jpeg",
+        "black_handbag_2.jpeg",
+        "black_handbag_3.jpeg",
+        "black_handbag_4.jpeg"
+      ],
+      "product_cost": 899,
+      "product_rating": 1,
+      "color_id": {
+        "_id": "61d701f6b4d804f24398154a",
+        "color_name": "Black",
+        "color_code": "#000000",
+        "__v": 0
+      },
+      "category_id": {
+        "_id": "61d702cfb4d804f243981558",
+        "category_name": "Handbag",
+        "created_at": "2022-01-06T14:55:11.495Z",
+        "__v": 0
+      },
+      "created_at": "2022-01-06T19:10:48.192Z",
+      "__v": 0,
+      "product_feature": "Product Material: Faux Leather\nProduct Color: Black\nProduct Occasion: CASUAL, PARTY\nProduct Warranty: Warranty against manufacturing defects within 10 days of purchase\nWater Resistant: This product is water resistant. Wipe with a dry/damp cloth to clean. Do not wash.\nProduct Pattern: 2 handles; 1 adjustable long belt(detachable), Closure: Snap",
+      "rated_by": 1,
+      "quantity": 1
+    },
+    {
+      "_id": "61d73fe0b4d804f24398155c",
+      "product_name": "Paradox Women's Matte Finish Handbag",
+      "product_image": "blue_handbag_1.jpg",
+      "product_desc": "This handbag is made from PU material and is  Blue in colour. The handbag has compartments to store your belongings in an organized way. It is a suitable choice when you want to carry your essentials in style without compromising on utility. Compartment Description The wallet features two main compartments with an inner compartment with zipper closure to store your cash and coins. The compartments have adequate space for your essentials like cosmetics, cash, coins, cell phone and other miscellaneous stuff. The handbag has an inner lining along the compartments and also comes with an inner zip compartment to store your id and other important cards.",
+      "product_subimages": [
+        "blue_handbag_1.jpg",
+        "blue_handbag_2.jpg",
+        "blue_handbag_3.jpg",
+        "blue_handbag_4.jpg"
+      ],
+      "product_cost": 2999,
+      "product_rating": 3,
+      "color_id": {
+        "_id": "61d701cfb4d804f243981548",
+        "color_name": "Blue",
+        "color_code": "#0000FF",
+        "__v": 0
+      },
+      "category_id": {
+        "_id": "61d702cfb4d804f243981558",
+        "category_name": "Handbag",
+        "created_at": "2022-01-06T14:55:11.495Z",
+        "__v": 0
+      },
+      "created_at": "2022-01-06T19:15:44.404Z",
+      "__v": 0,
+      "product_feature": "Color: Navy Blue, PU leather material , \nClosure: Zip Closure Strap \nType: Handle;\nOccasion: Casual\nParty wear ,casual ,formal ,office use, Light weight and spacious, Designer collection\nThis can also be a fantastic gift for your lovely wife or a special friend on her birthday  anniversary to make her feel special and loved✅\nDimensions-;Length:40cm, Height:30cm and Widt:10cm , 2 Compartment, 6 outer Pocket.1 inner pocket,\nDo not expose to extreme heat",
+      "rated_by": 1,
+      "quantity": 1
+    },
+    {
+      "_id": "61d74096b4d804f24398155e",
+      "product_name": "Mammon Women's Handbag",
+      "product_image": "red_handbag_1.jpeg",
+      "product_desc": "Style and Fashion: This product is design for modern people who wants to change with the world. This product will be add on for your personality. Applications - Perfect for the Trips, Vacation, Travel, School, Shopping or any other kind of Leisure Activities. Features- Sets of 6 piece of Bags with Zipper Closure, Adjustable Strap with Solid Finishing. Material- Pure PU Leather material.",
+      "product_subimages": [
+        "red_handbag_1.jpeg",
+        "red_handbag_2.jpeg",
+        "red_handbag_3.jpeg",
+        "red_handbag_4.jpeg"
+      ],
+      "product_cost": 4999,
+      "product_rating": 5,
+      "color_id": {
+        "_id": "61d70211b4d804f24398154c",
+        "color_name": "Red",
+        "color_code": "#E84855",
+        "__v": 0
+      },
+      "category_id": {
+        "_id": "61d702cfb4d804f243981558",
+        "category_name": "Handbag",
+        "created_at": "2022-01-06T14:55:11.495Z",
+        "__v": 0
+      },
+      "created_at": "2022-01-06T19:18:46.835Z",
+      "__v": 0,
+      "product_feature": "Dimensions: 21.5 cm x 18 cm x 7 cm\nproduct material:100% nylon satin\nType:Versatile bag\nProduct pattern :Inner zip pocket\nClosure Type: Zip closure\nHook-and-loop tab keeps handles together\nRemovable, adjustable shoulder strap\nColor: Legacy Red",
+      "rated_by": 1,
+      "quantity": 1
+    }
+  ],
+  "addresses": [
+    {
+      "address": "C/115 Sai Heritage",
+      "city": "amb",
+      "pincode": "421501",
+      "states": "Maharashtra",
+      "country": "India"
+    }
+  ],
+  "created_at": {
+    "$date": "2022-01-16T13:13:11.851Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e4692f8fb35eb1e590e4d5"
+  },
+  "user_email": "supetejalc@gmail.com",
+  "card_name": "tejal",
+  "subtotal": 2999,
+  "gst": 149.95,
+  "totalCart": [
+    {
+      "_id": "61d73fe0b4d804f24398155c",
+      "product_name": "Paradox Women's Matte Finish Handbag",
+      "product_image": "blue_handbag_1.jpg",
+      "product_desc": "This handbag is made from PU material and is  Blue in colour. The handbag has compartments to store your belongings in an organized way. It is a suitable choice when you want to carry your essentials in style without compromising on utility. Compartment Description The wallet features two main compartments with an inner compartment with zipper closure to store your cash and coins. The compartments have adequate space for your essentials like cosmetics, cash, coins, cell phone and other miscellaneous stuff. The handbag has an inner lining along the compartments and also comes with an inner zip compartment to store your id and other important cards.",
+      "product_subimages": [
+        "blue_handbag_1.jpg",
+        "blue_handbag_2.jpg",
+        "blue_handbag_3.jpg",
+        "blue_handbag_4.jpg"
+      ],
+      "product_cost": 2999,
+      "product_rating": 3,
+      "color_id": {
+        "_id": "61d701cfb4d804f243981548",
+        "color_name": "Blue",
+        "color_code": "#0000FF",
+        "__v": 0
+      },
+      "category_id": {
+        "_id": "61d702cfb4d804f243981558",
+        "category_name": "Handbag",
+        "created_at": "2022-01-06T14:55:11.495Z",
+        "__v": 0
+      },
+      "created_at": "2022-01-06T19:15:44.404Z",
+      "__v": 0,
+      "product_feature": "Color: Navy Blue, PU leather material , \nClosure: Zip Closure Strap \nType: Handle;\nOccasion: Casual\nParty wear ,casual ,formal ,office use, Light weight and spacious, Designer collection\nThis can also be a fantastic gift for your lovely wife or a special friend on her birthday  anniversary to make her feel special and loved✅\nDimensions-;Length:40cm, Height:30cm and Widt:10cm , 2 Compartment, 6 outer Pocket.1 inner pocket,\nDo not expose to extreme heat",
+      "rated_by": 1,
+      "quantity": 1
+    }
+  ],
+  "addresses": [],
+  "created_at": {
+    "$date": "2022-01-16T18:51:27.706Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e46be292d7177524d5676f"
+  },
+  "user_email": "supetejalc@gmail.com",
+  "card_name": "teju",
+  "subtotal": 4498,
+  "gst": 224.9,
+  "totalCart": [
+    {
+      "rated_by": 1,
+      "_id": "61d94b627e2af47b432d9635",
+      "product_name": "LimeStone Analogue Watch",
+      "product_image": "Blue_watch_1.jpeg",
+      "product_desc": "Beautiful at first sight and breathtaking when adorned, the Designer collection of watches by ASGARD are all about the added dose of charisma, which blend in elegantly with the manly requirements of spreading beauty in every stride they walk with. A Brown Color Leather brought together to form the strap of the watch along with a round face looks beautiful on your wrist. The contemporary design splurged on the White dial background cozies beautifully with the grey designer bezel.",
+      "product_subimages": [
+        "Blue_watch_1.jpeg",
+        "Blue_watch_2.jpeg",
+        "Blue_watch_3.jpeg",
+        "Blue_watch_4.jpeg"
+      ],
+      "product_cost": 1999,
+      "product_rating": 4,
+      "color_id": {
+        "_id": "61d701cfb4d804f243981548",
+        "color_name": "Blue",
+        "color_code": "#0000FF",
+        "__v": 0
+      },
+      "category_id": {
+        "_id": "61d702aeb4d804f243981552",
+        "category_name": "Watch",
+        "created_at": "2022-01-06T14:54:38.788Z",
+        "__v": 0
+      },
+      "created_at": "2022-01-08T08:29:22.461Z",
+      "__v": 0,
+      "product_feature": "Band Colour:\tBlue\nBand Material:\tLeather\nBand Width:\t22 Millimeters\nBrand:\tREDUX\nCase Diameter:\t38 Millimeters\nCase Material:\tAlloy Steel\nCollection:\tCasual\nDial Colour:  SILVER\nCrystal MateriaL:Glass\nDisplay Type:\tAnalog\nCase Shape:\tRound\nModel Number:\tRWS0216\nMovement:\tQuartz\nWarranty Description:1 Years manufacturer warranty on manufacturing defects",
+      "quantity": 1
+    },
+    {
+      "_id": "61d94aa37e2af47b432d9633",
+      "product_name": "VILLS LAURRENS Analogue Men's Watch ",
+      "product_image": "Black_watch_1.jpeg",
+      "product_desc": "Vills Laurrens brings to you this analog watch which is designed for the man with an adventurous spirit and a knack for stylish timepieces. The watch is black in colour and complements your overall persona when you adorn it. The watch dial has an analog display and comes in a shade of black with a round dial with symbols for hour and minute.",
+      "product_subimages": [
+        "Black_watch_1.jpeg",
+        "Black_watch_2.jpeg",
+        "Black_watch_3.jpeg",
+        "Black_watch_4.jpeg"
+      ],
+      "product_cost": 2499,
+      "product_rating": 3,
+      "color_id": {
+        "_id": "61d701f6b4d804f24398154a",
+        "color_name": "Black",
+        "color_code": "#000000",
+        "__v": 0
+      },
+      "category_id": {
+        "_id": "61d702aeb4d804f243981552",
+        "category_name": "Watch",
+        "created_at": "2022-01-06T14:54:38.788Z",
+        "__v": 0
+      },
+      "created_at": "2022-01-08T08:26:11.658Z",
+      "__v": 0,
+      "product_feature": "Band Color:\tBlack\nBand Material:\tMetal\nBand Width:\t20 Millimeters\nBrand:\tSonata\nCase Diameter:\t47.5 Millimeters\nCase Material:\tBrass\nDial Color:\tBlack\nCrystal Material:\tMineral\nDisplay Type: Analog\nCase Shape:\tRound\nModel Number\tNN77031KM03\nMovement:\tQuartz\nWater Resistance Depth:\t30 Meters\nWarranty Description:12 months manufacturer warranty on manufacturing defects.",
+      "rated_by": 1,
+      "quantity": 1
+    }
+  ],
+  "addresses": [],
+  "created_at": {
+    "$date": "2022-01-16T19:02:58.804Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e46ce8f2ab449b0f3a941d"
+  },
+  "user_email": "supetejalc@gmail.com",
+  "card_name": "tejal supe",
+  "subtotal": 1999,
+  "gst": 99.95,
+  "totalCart": [
+    {
+      "rated_by": 1,
+      "_id": "61d94b627e2af47b432d9635",
+      "product_name": "LimeStone Analogue Watch",
+      "product_image": "Blue_watch_1.jpeg",
+      "product_desc": "Beautiful at first sight and breathtaking when adorned, the Designer collection of watches by ASGARD are all about the added dose of charisma, which blend in elegantly with the manly requirements of spreading beauty in every stride they walk with. A Brown Color Leather brought together to form the strap of the watch along with a round face looks beautiful on your wrist. The contemporary design splurged on the White dial background cozies beautifully with the grey designer bezel.",
+      "product_subimages": [
+        "Blue_watch_1.jpeg",
+        "Blue_watch_2.jpeg",
+        "Blue_watch_3.jpeg",
+        "Blue_watch_4.jpeg"
+      ],
+      "product_cost": 1999,
+      "product_rating": 4,
+      "color_id": {
+        "_id": "61d701cfb4d804f243981548",
+        "color_name": "Blue",
+        "color_code": "#0000FF",
+        "__v": 0
+      },
+      "category_id": {
+        "_id": "61d702aeb4d804f243981552",
+        "category_name": "Watch",
+        "created_at": "2022-01-06T14:54:38.788Z",
+        "__v": 0
+      },
+      "created_at": "2022-01-08T08:29:22.461Z",
+      "__v": 0,
+      "product_feature": "Band Colour:\tBlue\nBand Material:\tLeather\nBand Width:\t22 Millimeters\nBrand:\tREDUX\nCase Diameter:\t38 Millimeters\nCase Material:\tAlloy Steel\nCollection:\tCasual\nDial Colour:  SILVER\nCrystal MateriaL:Glass\nDisplay Type:\tAnalog\nCase Shape:\tRound\nModel Number:\tRWS0216\nMovement:\tQuartz\nWarranty Description:1 Years manufacturer warranty on manufacturing defects",
+      "quantity": 1
+    }
+  ],
+  "addresses": [],
+  "created_at": {
+    "$date": "2022-01-16T19:07:20.700Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e4f05ceecae35cd9e60f99"
+  },
+  "user_email": "supetejalc@gmail.com",
+  "card_name": "tejal",
+  "subtotal": 7998,
+  "gst": 399.9,
+  "totalCart": [
+    {
+      "_id": "61d73fe0b4d804f24398155c",
+      "product_name": "Paradox Women's Matte Finish Handbag",
+      "product_image": "blue_handbag_1.jpg",
+      "product_desc": "This handbag is made from PU material and is  Blue in colour. The handbag has compartments to store your belongings in an organized way. It is a suitable choice when you want to carry your essentials in style without compromising on utility. Compartment Description The wallet features two main compartments with an inner compartment with zipper closure to store your cash and coins. The compartments have adequate space for your essentials like cosmetics, cash, coins, cell phone and other miscellaneous stuff. The handbag has an inner lining along the compartments and also comes with an inner zip compartment to store your id and other important cards.",
+      "product_subimages": [
+        "blue_handbag_1.jpg",
+        "blue_handbag_2.jpg",
+        "blue_handbag_3.jpg",
+        "blue_handbag_4.jpg"
+      ],
+      "product_cost": 2999,
+      "product_rating": 3,
+      "color_id": {
+        "_id": "61d701cfb4d804f243981548",
+        "color_name": "Blue",
+        "color_code": "#0000FF",
+        "__v": 0
+      },
+      "category_id": {
+        "_id": "61d702cfb4d804f243981558",
+        "category_name": "Handbag",
+        "created_at": "2022-01-06T14:55:11.495Z",
+        "__v": 0
+      },
+      "created_at": "2022-01-06T19:15:44.404Z",
+      "__v": 0,
+      "product_feature": "Color: Navy Blue, PU leather material , \nClosure: Zip Closure Strap \nType: Handle;\nOccasion: Casual\nParty wear ,casual ,formal ,office use, Light weight and spacious, Designer collection\nThis can also be a fantastic gift for your lovely wife or a special friend on her birthday  anniversary to make her feel special and loved✅\nDimensions-;Length:40cm, Height:30cm and Widt:10cm , 2 Compartment, 6 outer Pocket.1 inner pocket,\nDo not expose to extreme heat",
+      "rated_by": 1,
+      "quantity": 1
+    },
+    {
+      "_id": "61d74096b4d804f24398155e",
+      "product_name": "Mammon Women's Handbag",
+      "product_image": "red_handbag_1.jpeg",
+      "product_desc": "Style and Fashion: This product is design for modern people who wants to change with the world. This product will be add on for your personality. Applications - Perfect for the Trips, Vacation, Travel, School, Shopping or any other kind of Leisure Activities. Features- Sets of 6 piece of Bags with Zipper Closure, Adjustable Strap with Solid Finishing. Material- Pure PU Leather material.",
+      "product_subimages": [
+        "red_handbag_1.jpeg",
+        "red_handbag_2.jpeg",
+        "red_handbag_3.jpeg",
+        "red_handbag_4.jpeg"
+      ],
+      "product_cost": 4999,
+      "product_rating": 5,
+      "color_id": {
+        "_id": "61d70211b4d804f24398154c",
+        "color_name": "Red",
+        "color_code": "#E84855",
+        "__v": 0
+      },
+      "category_id": {
+        "_id": "61d702cfb4d804f243981558",
+        "category_name": "Handbag",
+        "created_at": "2022-01-06T14:55:11.495Z",
+        "__v": 0
+      },
+      "created_at": "2022-01-06T19:18:46.835Z",
+      "__v": 0,
+      "product_feature": "Dimensions: 21.5 cm x 18 cm x 7 cm\nproduct material:100% nylon satin\nType:Versatile bag\nProduct pattern :Inner zip pocket\nClosure Type: Zip closure\nHook-and-loop tab keeps handles together\nRemovable, adjustable shoulder strap\nColor: Legacy Red",
+      "rated_by": 1,
+      "quantity": 1
+    }
+  ],
+  "addresses": [
+    {
+      "address": "C115 Sai Heritage",
+      "pincode": 421501,
+      "city": "amb",
+      "states": "Maharashtra",
+      "country": "India"
+    }
+  ],
+  "created_at": {
+    "$date": "2022-01-17T04:28:12.408Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e4f0c2eecae35cd9e60fad"
+  },
+  "user_email": "supetejalc@gmail.com",
+  "card_name": "abc",
+  "subtotal": 19999,
+  "gst": 999.95,
+  "totalCart": [
+    {
+      "rated_by": 1,
+      "_id": "61d955aa7e2af47b432d9650",
+      "product_name": "Grey Sofa Set",
+      "product_image": "Grey_sofa_1.jpg",
+      "product_desc": "Amp up your living room with the Westido Fabric 3+1+1 Navy Blue Sofa Set. Featuring scratch-resistant fabric, high-grade solid wood and high-density foam, this sofa will be comfortable to sit on and will complement your living space as well.",
+      "product_subimages": [
+        "Grey_sofa_1.jpg",
+        "Grey_sofa_2.jpg",
+        "Grey_sofa_3.jpg",
+        "Grey_sofa_4.jpg"
+      ],
+      "product_cost": 19999,
+      "product_rating": 4,
+      "color_id": {
+        "_id": "61d70221b4d804f24398154e",
+        "color_name": "Grey",
+        "color_code": "#808080",
+        "__v": 0
+      },
+      "category_id": {
+        "_id": "61d702a7b4d804f243981550",
+        "category_name": "Sofa",
+        "created_at": "2022-01-06T14:54:31.402Z",
+        "__v": 0
+      },
+      "created_at": "2022-01-08T09:13:14.121Z",
+      "__v": 0,
+      "product_feature": "Color: GREY\nModel Number: EURO_GREY_3_2\nUpholstery Material: Fabric\nFrame Material: Solid Wood\nFrame Material Subtype: Acacia (Kasia)\nUpholstery Type: Cushion\nPrimary Color: Grey\nFilling Material: Foam\nUpholstery Color: Grey\nFinish Type: MATTE\nModular: Yes",
+      "quantity": 1
+    }
+  ],
+  "addresses": [],
+  "created_at": {
+    "$date": "2022-01-17T04:29:54.887Z"
+  },
+  "__v": 0
+}]
