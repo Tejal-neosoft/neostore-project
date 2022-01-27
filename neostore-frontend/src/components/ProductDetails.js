@@ -6,15 +6,17 @@ import Box from '@mui/material/Box';
 import TabContext from '@mui/lab/TabContext';
 import TabList from '@mui/lab/TabList';
 import TabPanel from '@mui/lab/TabPanel';
-import { useLocation } from 'react-router-dom';
+import { useLocation,useNavigate } from 'react-router-dom';
 import ReactStars from 'react-stars';
-import { WhatsappShareButton, FacebookShareButton, TwitterShareButton, PinterestShareButton, FacebookIcon, PinterestIcon, TwitterIcon, WhatsappIcon, EmailShareButton, EmailIcon } from 'react-share';
+import { WhatsappShareButton, FacebookShareButton, TwitterShareButton, FacebookIcon, TwitterIcon, WhatsappIcon, EmailShareButton, EmailIcon } from 'react-share';
 import { useDispatch} from 'react-redux'
 import { FaRupeeSign } from "react-icons/fa";
 import Magnifier from "react-magnifier";
 import { BsStarFill,BsStarHalf } from 'react-icons/bs';
 import { rateProductService,fetchRateProduct } from '../config/MyProductService';
 import Swal from 'sweetalert2';
+import jwtDecode from 'jwt-decode';
+
 
 
 
@@ -25,6 +27,7 @@ function ProductDetails() {
   const [state, setstate] = useState({})
   const [value, setValue] = useState('1');
   const dispatch = useDispatch();
+  const navigate = useNavigate()
 
 useEffect(() => {
    fetchRateProduct({id:location.state._id}).then(res=>{
@@ -38,16 +41,20 @@ useEffect(() => {
     setValue(newValue);
   };
   //for rating display
+
   const rating = (ele) => {
+   
     return {
         edit: false,
         color: "rgba(20,20,20,0.1)",
         activeColor: "tomato",
         size: window.innerWidth < 600 ? 20 : 25,
-        value: ele.product_rating/ele.rated_by,
+        value: ele.product_rating,
         isHalf: true,
     };
 }
+
+
 
 //for rating the products
   const rateProduct = {
@@ -67,16 +74,48 @@ useEffect(() => {
 };
 //adding the changed rating to db
 const chngeRating = (value) => {
-  rateProductService({ value: ((state.product_rating + value)/state.rated_by), rated: state.rated_by + 1,id:state._id }).then(res =>
-      setstate(res.data)
-   )
-   Swal.fire({
-    position: 'top-end',
-    icon: 'success',
-    title: 'Thankyou for Rating...!!',
-    showConfirmButton: false,
-    timer: 1500
-  })
+  if(localStorage.getItem('_token') != undefined){
+    let decode = jwtDecode(localStorage.getItem('_token'))
+    if(!state.rated_by.includes(decode._id)){
+      let l  
+      if(state.rated_by != undefined && state.rated_by.length != 0){
+           l = state.rated_by.length
+  
+      }
+      else{
+           l = 1
+      }
+        let arr = state.rated_by
+        console.log(l,'l');
+        console.log((state.product_rating + value)/(l+1),l+1);
+        arr.push(decode._id)
+        rateProductService({ value: (state.product_rating + value)/(l+1), rated: arr,id:state._id }).then(res =>
+          setstate(res.data)
+       )
+       Swal.fire({
+        position: 'top-end',
+        icon: 'success',
+        title: 'Thankyou for Rating...!!',
+        showConfirmButton: false,
+        timer: 1500
+      })
+
+    }
+    else{
+        alert("You have already rated..")
+
+    }
+}
+else{
+    navigate('/login')
+}
+
+
+
+
+
+ 
+  
       
 }
 

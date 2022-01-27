@@ -55,7 +55,7 @@ function Products() {
             color: "rgba(20,20,20,0.1)",
             activeColor: "tomato",
             size: window.innerWidth < 600 ? 20 : 25,
-            value: ele.product_rating / ele.rated_by,
+            value: ele.product_rating,
             isHalf: true,
         };
 
@@ -101,7 +101,7 @@ function Products() {
                     <div className='col-sm-12 col-md-12 col-lg-3'>
                         <button className='btn btn-primary mt-5 w-100 p-2' onClick={() => alldata()}>All Products</button>
                         <div className='mt-4'>
-                            {sortdata != 'star' &&
+                            
                                 <Accordion style={{ backgroundColor: 'mintcream' }}>
                                     <AccordionSummary
                                         expandIcon={<ExpandMoreIcon />}
@@ -127,7 +127,7 @@ function Products() {
                                                 ))}
                                         </Typography>
                                     </AccordionDetails>
-                                </Accordion>}
+                                </Accordion>
                             <br />
                             {
                                 fcategorys != 'cate' && <Accordion style={{ backgroundColor: 'mintcream' }}>

@@ -27,7 +27,7 @@ export default function Home() {
             color: "rgba(20,20,20,0.1)",
             activeColor: "tomato",
             size: window.innerWidth < 600 ? 20 : 25,
-            value: prod.product_rating/prod.rated_by,
+            value: prod.product_rating,
             isHalf: true,
         };
 

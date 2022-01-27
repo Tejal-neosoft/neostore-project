@@ -39,8 +39,8 @@ const productSchema = new mongoose.Schema({
         required:true
     },
     rated_by:{
-        type:Number,
-        default:1
+        type:Array,
+        default:[]
     }
 
 })

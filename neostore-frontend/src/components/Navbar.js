@@ -55,7 +55,7 @@ export default function Navbaar() {
             <div>
                 <nav className="navbar navbar-expand-lg navbar-dark" style={{backgroundColor:'black'}}>
                     <div className="container-fluid">
-                        <Link className="navbar-brand font-weight-bold" to="/dashboard" style={{ fontSize: "1.6rem" }}>Neo<span style={{ color: "red" }}>STORE</span></Link>
+                        <Link className="navbar-brand font-weight-bold" to="/" style={{ fontSize: "1.6rem" }}>Neo<span style={{ color: "red" }}>STORE</span></Link>
                         <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                             <span className="navbar-toggler-icon"></span>
                         </button>
